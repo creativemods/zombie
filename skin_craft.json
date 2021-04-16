@@ -4,16 +4,16 @@
     {
       "status":"0",
       "link":"http://",
-      "pengaturan_iklan":"1",
+      "pengaturan_iklan":"3",
       "admob_open_ads":"ca-app-pub-5456136783183193/5631741021",
       "admob_banner":"ca-app-pub-5456136783183193/5351064640",
       "admob_inter":"ca-app-pub-5456136783183193/8257904360",
       "admob_native":"ca-app-pub-5456136783183193/2370318719",
-      "interval":5,
+      "interval":2,
       "fan_inter":"",
       "fan_banner":"",
       "fan_native":"",
-      "startappid":""
+      "startappid":"203912822"
     }
   ],
   "More":
