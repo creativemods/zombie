@@ -19,10 +19,82 @@
   "More":
   [
     {
-      "id":1,
-      "judul":"Skin Boboi Boy",
+      "id":0,
+      "judul":"Kawaii",
+      "image":"https://play-lh.googleusercontent.com/NCez2o_YvLOYt6mJjqj3dIUaGn66SfGvFKF0I1Sp7Nn5N9tbss402hXvyJu3rm1iFC4R=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.kawaiiskinmcpe"
+    },
+    {
+      "id":0,
+      "judul":"Dream",
+      "image":"https://play-lh.googleusercontent.com/5KZz8n00Taihr5SpGckMO_JES9H9jfcoPu6T2uYvwgORw7yy0mZNUbWYl7lgt2dUf_6x=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.dreamskinformcpe"
+    },
+    {
+      "id":0,
+      "judul":"BTS Boyband",
+      "image":"https://play-lh.googleusercontent.com/J_HtYjBQcvXRA5j3rAbZ2atmrjmlF1Y2DgIji0kGcaiP8DVxczEtXobcalCl3H5zJgM=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.btsskinminecraftpe"
+    },
+    {
+      "id":0,
+      "judul":"Sadako",
+      "image":"https://play-lh.googleusercontent.com/MCEuVwrAtpXiAfrqQXib4yigT1rP8PdMS25QgVco9AmDJ1X17EpmNBH1GDqRI3oIE9E=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.sadakoskinmodforminecraftpe"
+    },
+    {
+      "id":0,
+      "judul":"PinkGirl Princess",
+      "image":"https://play-lh.googleusercontent.com/e-1hecrDWSXBHEvxEF0JawlqKL6tIpjV5J9Vtvf-OPJdSmOGCrvVAF0cMjRUkccHFGGh=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.PinkGirlSkinCraft"
+    },
+    {
+      "id":0,
+      "judul":"Attack on Titan",
+      "image":"https://play-lh.googleusercontent.com/5dYYw-zmRu39-0b1ltpppbdoDV5aUY6bfZWyjih7vqclQAkufXZtKex-eCbJXcpUvg=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.skinattackoftitanmod"
+    },
+    {
+      "id":0,
+      "judul":"Friday Night Funkin",
+      "image":"https://play-lh.googleusercontent.com/bOarS5nzpLsxyfzUPoRH6CsanaLTNy4asPf-z-UE-CzZDOoX0jnp523lAXwbUMYGnx0=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.fridayfunkinskinminecraftpe"
+    },
+    {
+      "id":0,
+      "judul":"Sonic",
+      "image":"https://play-lh.googleusercontent.com/eDZqvO4tvUm8ddB6-7bxc5owAcSwYXLL-9ThIImYHZB3k23kZ-pNbNygujnW2K5pDw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.soniicskincraft"
+    },
+    {
+      "id":0,
+      "judul":"Konoha Ninja",
+      "image":"https://play-lh.googleusercontent.com/sbBnTmVSubGtMYdNuH-LBVX6FzllQLTjFkdpsAQBYj0MgaSjDFFf6GSJOjwYR09vJ8U3=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.konohaskincraft"
+    },
+    {
+      "id":0,
+      "judul":"Boboi Boy",
       "image":"https://play-lh.googleusercontent.com/flWSyH3vWI6bZRN0V_cpHYTQ6-QW7ZZnPaG2JPtq02XtEMJDU6eZi5tiamgk60LNGXM=s180-rw",
       "link":"https://play.google.com/store/apps/details?id=com.creativemods.boboiskinmcpe"
+    },
+    {
+      "id":0,
+      "judul":"Dream",
+      "image":"https://play-lh.googleusercontent.com/5KZz8n00Taihr5SpGckMO_JES9H9jfcoPu6T2uYvwgORw7yy0mZNUbWYl7lgt2dUf_6x=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.dreamskinformcpe"
+    },
+    {
+      "id":0,
+      "judul":"FreeFire",
+      "image":"https://play-lh.googleusercontent.com/J8T21WM2zVXutOKuOM8GzWoY5FOyxVz8UCBdVHrIGcgPQDrtE28YIxPeAvyqHamLOaU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.ffskinsminecraftpe"
+    },
+    {
+      "id":0,
+      "judul":"Battleground",
+      "image":"https://play-lh.googleusercontent.com/x7B6ERVWW51qQ9KL7l-1YW2FzZxGRmmaElfJAzXfg3w4EWGHx48YK5gSjUEkyR6KcbUH=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.creativemods.battlegroundskincraft"
     }
   ],
   "Skin":
